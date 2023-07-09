@@ -1,11 +1,10 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Chamodi</h1>
 <h3 align="center">A dedicated undergraduate in industrial statistics with expertise in data analytics and machine learning applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
 
 
-- 🌱 I’m currently learning **Industrial Statistics @University of Colombo**
+- 🌱 I’m currently learning **Industrial Statistics @University of Colombo Faculty of Science**
 
 - 📫 How to reach me **chamodisiriwardhana017@gmail.com**
 

@@ -3,7 +3,7 @@
 <h3 align="center">A dedicated undergraduate in industrial statistics with expertise in data analytics and machine learning applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imchamodi" alt="imchamodi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Industrial Statistics @University of Colombo**
 
